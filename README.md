@@ -36,16 +36,18 @@
 </p>
 
 ## :pushpin: My proyects
-
 <p>
-  <a><img src="https://github.com/luisbasmar/luisbasmar/blob/main/images/1.png"></a>
-  <a><img src="https://github.com/luisbasmar/luisbasmar/blob/main/images/2.png"></a>
-  <a><img src="https://github.com/luisbasmar/luisbasmar/blob/main/images/3.png"></a>
+<span>crtl + click to open on a new tag -->> </<span><a href="https://e-commerce-labs.vercel.app/">Link to the Proyect</a>
 </p>
 <p>
-  <a><img src="https://github.com/luisbasmar/luisbasmar/blob/main/images/4.png"></a>
-  <a><img src="https://github.com/luisbasmar/luisbasmar/blob/main/images/5.png"></a>
-  <a><img src="https://github.com/luisbasmar/luisbasmar/blob/main/images/6.png"></a>
+  <img src="https://github.com/luisbasmar/luisbasmar/blob/main/images/1.png" width="300px">
+  <img src="https://github.com/luisbasmar/luisbasmar/blob/main/images/2.png" width="300px">
+  <img src="https://github.com/luisbasmar/luisbasmar/blob/main/images/3.png" width="300px">
+</p>
+<p>
+  <img src="https://github.com/luisbasmar/luisbasmar/blob/main/images/4.png" width="300px">
+  <img src="https://github.com/luisbasmar/luisbasmar/blob/main/images/5.png" width="300px">
+  <img src="https://github.com/luisbasmar/luisbasmar/blob/main/images/6.png" width="300px">
 </p>
 
 <h3>Pedidotopia</h3>
