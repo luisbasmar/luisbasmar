@@ -38,14 +38,14 @@
 ## :pushpin: My proyects
 
 <p>
-  <a><img src="https://github.com/luisbasmar/luisbasmar/images/1.png"></a>
-  <a><img src="https://github.com/luisbasmar/luisbasmar/images/2.png"></a>
-  <a><img src="https://github.com/luisbasmar/luisbasmar/images/3.png"></a>
+  <a><img src="https://github.com/luisbasmar/luisbasmar/blob/main/images/1.png"></a>
+  <a><img src="https://github.com/luisbasmar/luisbasmar/blob/main/images/2.png"></a>
+  <a><img src="https://github.com/luisbasmar/luisbasmar/blob/main/images/3.png"></a>
 </p>
 <p>
-  <a><img src="https://github.com/luisbasmar/luisbasmar/images/4.png"></a>
-  <a><img src="https://github.com/luisbasmar/luisbasmar/images/5.png"></a>
-  <a><img src="https://github.com/luisbasmar/luisbasmar/images/6.png"></a>
+  <a><img src="https://github.com/luisbasmar/luisbasmar/blob/main/images/4.png"></a>
+  <a><img src="https://github.com/luisbasmar/luisbasmar/blob/main/images/5.png"></a>
+  <a><img src="https://github.com/luisbasmar/luisbasmar/blob/main/images/6.png"></a>
 </p>
 
 <h3>Pedidotopia</h3>
