@@ -36,25 +36,33 @@
 </p>
 
 ## :pushpin: My proyects
+<h3>MarketPlace APP</h3>
 <p>
-<span>crtl + click to open on a new tag -->> </<span><a href="https://e-commerce-labs.vercel.app/">Link to the Proyect</a>
+<span>crtl + click to open on a new tag -->> </<span><a href="https://e-commerce-labs.vercel.app/">Link to the Project</a>
 </p>
 <p>
-  <img src="https://github.com/luisbasmar/luisbasmar/blob/main/images/1.png" width="300px">
-  <img src="https://github.com/luisbasmar/luisbasmar/blob/main/images/2.png" width="300px">
-  <img src="https://github.com/luisbasmar/luisbasmar/blob/main/images/3.png" width="300px">
+  <img src="https://github.com/luisbasmar/luisbasmar/blob/main/images/1.png" width="250px">
+  <img src="https://github.com/luisbasmar/luisbasmar/blob/main/images/2.png" width="250px">
+  <img src="https://github.com/luisbasmar/luisbasmar/blob/main/images/3.png" width="250px">
 </p>
 <p>
-  <img src="https://github.com/luisbasmar/luisbasmar/blob/main/images/4.png" width="300px">
-  <img src="https://github.com/luisbasmar/luisbasmar/blob/main/images/5.png" width="300px">
-  <img src="https://github.com/luisbasmar/luisbasmar/blob/main/images/6.png" width="300px">
+  <img src="https://github.com/luisbasmar/luisbasmar/blob/main/images/4.png" width="250px">
+  <img src="https://github.com/luisbasmar/luisbasmar/blob/main/images/5.png" width="250px">
+  <img src="https://github.com/luisbasmar/luisbasmar/blob/main/images/6.png" width="250px">
 </p>
 
-<h3>Pedidotopia</h3>
+<h3>Dogs API</h3>
 <p>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/tabla.jpg"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/nuevoprod.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/imagen.png"></a>
+<span>crtl + click to open on a new tag -->> </<span><a href="https://pi-dogs-beige.vercel.app/">Link to the Project</a>
+</p>
+<p>
+  <a><img src="https://github.com/luisbasmar/luisbasmar/blob/main/images/1_dogs.png" width="250px"></a>
+  <a><img src="https://github.com/luisbasmar/luisbasmar/blob/main/images/2_dogs.png" width="250px"></a>
+  <a><img src="https://github.com/luisbasmar/luisbasmar/blob/main/images/3_dogs.png" width="250px"></a>
+</p> 
+<p>
+  <a><img src="https://github.com/luisbasmar/luisbasmar/blob/main/images/4_dogs.png" width="250px"></a>
+  <a><img src="https://github.com/luisbasmar/luisbasmar/blob/main/images/5_dogs.png" width="250px"></a>
 </p> 
 &nbsp;
 
