@@ -34,7 +34,6 @@
   <code><img width="10%" height="50px" src="https://github.com/luisbasmar/luisbasmar/blob/main/images/logos/Cs3.png"></code>
   <code><img width="10%" height="50px" src="https://github.com/luisbasmar/luisbasmar/blob/main/images/logos/javascript.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <br />  
   <code><img width="10%" height="45" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
