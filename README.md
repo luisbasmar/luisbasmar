@@ -11,7 +11,7 @@
 - :school: `Full Stack Web Deveoper` at Henry Bootcamp
 - :technologist: I love `coding` software as solutions for every problem
 - :student: I’m currently learning: Usefull `Nodejs Frameworks` 
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1LN-xlLOxb9DLJyU59VPDxfBis1KcbIbe/view?usp=sharing).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1Kp-FpasCmRbdWfzn42hmI_t0J8eHKysQ/view?usp=sharing).
 - :nerd_face: Always `learning`
 
 <br>
