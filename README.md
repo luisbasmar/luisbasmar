@@ -41,8 +41,9 @@
   <code><img  width="10%" height="50px" src="https://github.com/luisbasmar/luisbasmar/blob/main/images/logos/expressjs.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
-  <br />
 </p>
+
+<br/>
 
 ## :pushpin: My proyects
 <h3>MarketPlace APP</h3>
